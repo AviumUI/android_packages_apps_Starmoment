@@ -1,9 +1,8 @@
 android_app_import {
     name: "Starmoment",
     apk: "Starmoment.apk",
-    presigned: false, 
-    preprocessed: false,
-    certificate: "platform",
+    presigned: true, 
+    preprocessed: true,
     dex_preopt: {
         enabled: false,
     },
